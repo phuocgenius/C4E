@@ -1,0 +1,48 @@
+h1 {
+    color: aqua;
+}
+
+p {
+    color: rgb(13, 230, 49);
+}
+
+#tittle-speacial {
+    color: rgb(255, 174, 0);
+}
+
+.text-blue {
+    color: brown;
+}
+
+div {
+    color: blueviolet;
+}
+
+.text-brown {
+    color: brown;
+}
+
+#my-div {
+    color: pink;
+}
+/* Những thuộc tính giá trị định dạng text */
+#test-text {
+    font-size: 30px; /*  cỡ chữ */
+    font-style: italic; /*  kiểu chữ */
+    text-decoration: double; /*  trang trí cho chữ */
+    font-family: 'Courier New', Courier, monospace; /*   */
+    text-transform: uppercase; /* biến đổi chữ chữ */
+    text-shadow: none;
+}    
+
+
+/* Những thuộc tính giá trị định dạng khối nội dung */
+
+#my-text {
+    background-color: crimson;
+    width: 300px;
+    height: 170px;
+    border: dashed green;
+    border-radius: 10px;
+    padding: 20px;
+}

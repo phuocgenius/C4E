@@ -1,0 +1,26 @@
+#text-tittle {
+    font-size: 50px; 
+    font-style: italic; 
+    text-decoration: double; 
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase; 
+    text-shadow: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    }
+
+#text-font {
+    font-size: 20px;
+    font-style: oblique;
+}
+
+
+
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
